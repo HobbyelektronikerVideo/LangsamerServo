@@ -4,7 +4,7 @@
   - Ableitung von 'Servo' und Aufteilung in .h und .cpp
   - Erweiterung um eine Abfragefunktion
     
-  Version 1.00, 26.07.2020
+  Version 1.00, 07.12.2020
   Der Hobbyelektroniker
   https://community.hobbyelektroniker.ch
   https://www.youtube.com/c/HobbyelektronikerCh
